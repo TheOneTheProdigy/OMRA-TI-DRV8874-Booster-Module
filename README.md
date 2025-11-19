@@ -111,7 +111,7 @@ A = Rail A
 Minus = Rail Supply Ground / Control Ground / 0V
 <br>
 Plus = Rail Supply Voltage / 14V
-<br>
+<br><br>
 5V = 5V Supply / 5V
 <br>
 GND = Control Ground / Rail Supply Ground / 0V
