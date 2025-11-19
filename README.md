@@ -27,12 +27,10 @@
 <h3 align="center">OMRA TI DRV8874 Booster Module</h3>
 
   <p align="center">
-    project_description
+    Booster Driver Replacmenet For The Club Booster IBT2 Modules
     <br />
     <a href="https://github.com/TheOneTheProdigy/OMRA-TI-DRV8874-Booster-Module"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/TheOneTheProdigy/OMRA-TI-DRV8874-Booster-Module">View Demo</a>
     &middot;
     <a href="https://github.com/TheOneTheProdigy/OMRA-TI-DRV8874-Booster-Module/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
@@ -43,7 +41,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details>
+<!-- <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -66,12 +64,12 @@
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
-</details>
+</details> -->
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -92,12 +90,12 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+<!-- ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
@@ -131,23 +129,23 @@ This is an example of how to list things you need to use the software and how to
    git remote -v # confirm the changes
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+<!-- ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
 <!-- ROADMAP -->
-## Roadmap
+<!-- ## Roadmap
 
 - [ ] Feature 1
 - [ ] Feature 2
@@ -156,7 +154,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 See the [open issues](https://github.com/TheOneTheProdigy/OMRA-TI-DRV8874-Booster-Module/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
