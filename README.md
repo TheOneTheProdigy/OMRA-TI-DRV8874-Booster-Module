@@ -105,14 +105,21 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 ## Getting Started
 
 B = Rail B
+<br>
 A = Rail A
+<br>
 Minus = Rail Supply Ground / Control Ground / 0V
+<br>
 Plus = Rail Supply Voltage / 14V
-
+<br>
 5V = 5V Supply / 5V
+<br>
 GND = Control Ground / Rail Supply Ground / 0V
+<br>
 EN = Booster Output Enable / 5V
+<br>
 CS = Booster Current Sense / 3.3V
+<br>
 RS = Booster RailSync Input / 5V
 
 
