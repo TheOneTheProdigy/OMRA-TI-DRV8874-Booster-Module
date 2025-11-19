@@ -35,14 +35,14 @@
     <a href="https://github.com/TheOneTheProdigy/OMRA-TI-DRV8874-Booster-Module/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
     <a href="https://github.com/TheOneTheProdigy/OMRA-TI-DRV8874-Booster-Module/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
-  </p>
-</div>
-
-<br />
-<div align="center">
-  <a href="https://github.com/TheOneTheProdigy/OMRA-TI-DRV8874-Booster-Module">
+	
+	<br />
+	<div align="center">
+	<a href="https://github.com/TheOneTheProdigy/OMRA-TI-DRV8874-Booster-Module">
     <img src="Images/PCB_TOP_3D.png" alt="Logo" width="500" height="500">
   </a>
+  </p>
+</div>
 
 
 
