@@ -194,7 +194,7 @@ Distributed under the project_license. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+<!-- Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com -->
 
 Project Link: [https://github.com/TheOneTheProdigy/OMRA-TI-DRV8874-Booster-Module](https://github.com/TheOneTheProdigy/OMRA-TI-DRV8874-Booster-Module)
 
@@ -203,14 +203,14 @@ Project Link: [https://github.com/TheOneTheProdigy/OMRA-TI-DRV8874-Booster-Modul
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<!-- ## Acknowledgments
 
 * []()
 * []()
 * []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+ -->
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
