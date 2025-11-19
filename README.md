@@ -13,7 +13,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![project_license][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 
 
@@ -21,10 +21,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/TheOneTheProdigy/OMRA-TI-DRV8874-Booster-Module">
-    <img src="Images/OMRA_LOGO.png" alt="Logo" width="80" height="80">
+    <img src="Images/OMRA_LOGO.png" alt="Logo" width="160" height="160">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">OMRA TI DRV8874 Booster Module</h3>
 
   <p align="center">
     project_description
@@ -75,7 +75,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `TheOneTheProdigy`, `OMRA-TI-DRV8874-Booster-Module`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
+Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `TheOneTheProdigy`, `OMRA-TI-DRV8874-Booster-Module`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `OMRA TI DRV8874 Booster Module`, `project_description`, `project_license`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
