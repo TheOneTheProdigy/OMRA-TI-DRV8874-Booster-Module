@@ -27,7 +27,7 @@
 <h3 align="center">OMRA TI DRV8874 Booster Module</h3>
 
   <p align="center">
-    Booster Driver Replacmenet For The Club Booster IBT2 Modules
+    Booster Driver Replacement For The Club Booster IBT2 Modules
     <br />
     <a href="https://github.com/TheOneTheProdigy/OMRA-TI-DRV8874-Booster-Module"><strong>Explore the docs »</strong></a>
     <br />
