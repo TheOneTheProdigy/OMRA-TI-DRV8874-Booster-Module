@@ -106,14 +106,14 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 
 B = Rail B
 A = Rail A
-- = Rail Supply Ground / Control Ground
-+ = Rail Supply Voltage
+Minus = Rail Supply Ground / Control Ground / 0V
+Plus = Rail Supply Voltage / 14V
 
-5V = 5V Supply
-GND = Control Ground / Rail Supply Ground
-EN = Booster Output Enable
-CS = Booster Current Sense
-RS = Booster RailSync Input
+5V = 5V Supply / 5V
+GND = Control Ground / Rail Supply Ground / 0V
+EN = Booster Output Enable / 5V
+CS = Booster Current Sense / 3.3V
+RS = Booster RailSync Input / 5V
 
 
 
