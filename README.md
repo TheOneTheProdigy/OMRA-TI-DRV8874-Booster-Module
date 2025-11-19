@@ -104,9 +104,9 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-B = Rail B
+B = Rail B / 14V
 <br>
-A = Rail A
+A = Rail A / 14V
 <br>
 Minus = Rail Supply Ground / Control Ground / 0V
 <br>
