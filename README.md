@@ -21,7 +21,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/TheOneTheProdigy/OMRA-TI-DRV8874-Booster-Module">
-    <img src="images/OMRA_LOGO.png" alt="Logo" width="80" height="80">
+    <img src="Images/OMRA_LOGO.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">project_title</h3>
